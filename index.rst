@@ -6,7 +6,7 @@ urvent - Your Event System
 .. toctree::
     :maxdepth: 2
         Verwaltung
-            Neue Veranstaltung
+            Neue Veranstaltung <admin/create_topic>
             Personalplaner
             Einsatzplaner
             Kantinenplanung
