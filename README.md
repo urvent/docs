@@ -1,11 +1,7 @@
-urvent - Your Event System
-==========================
-
 ![urvent Logo](images/logo.png)
 
-[![Continuous Integration](https://github.com/urvent/docs/workflows/lint/badge.svg)](https://github.com/urvent/docs/actions)
+Your Event System
+=================
 
-Documentation
--------------
-
-[Online Dokumentation](https://docs.urvent.com)
+[![Continuous Integration](https://github.com/urvent/docs/workflows/Lint/badge.svg)](https://github.com/urvent/docs/actions)
+[![Awesome Badges](https://img.shields.io/badge/read-docs-green.svg)](https://docs.urvent.com)
