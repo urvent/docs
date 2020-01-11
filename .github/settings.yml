@@ -3,6 +3,7 @@
 repository:
   name: docs
   description: Dokumentation für das urvent Veranstaltungssystem
+  homepage: https://docs.urvent.com
   topics: documentation
 
   default_branch: master
