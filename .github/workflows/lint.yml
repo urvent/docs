@@ -12,5 +12,3 @@ jobs:
               uses: docker://oskarstark/doctor-rst
               with:
                   args: --short
-              env:
-                  DOCS_DIR: 'docs/'
