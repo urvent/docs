@@ -1,14 +1,19 @@
 Durchführung einer Veranstaltung
 ================================
 
+Allgemein
+---------
+
 .. note::
 
     Under construction
 
-.. toctree::
-   :caption: Module
-   :maxdepth: 2
+Module
+------
 
-   personal
-   kitchen
-   rental
+.. toctree::
+   :maxdepth: 1
+
+   Personal <personal>
+   Küche <kitchen>
+   Verleih <rental>

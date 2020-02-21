@@ -1,13 +1,18 @@
 Anmeldung der Teilnehmer
 ========================
 
+Allgemein
+---------
+
 .. note::
 
     Under construction
 
-.. toctree::
-   :caption: Module
-   :maxdepth: 2
+Module
+------
 
-   personal
-   rental
+.. toctree::
+   :maxdepth: 1
+
+   Personal <personal>
+   Verleih <rental>
