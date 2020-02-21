@@ -6,7 +6,8 @@ Anmeldung der Teilnehmer
     Under construction
 
 .. toctree::
-    :maxdepth: 2
-        personal
-        rental
+   :caption: Module
+   :maxdepth: 2
 
+   personal
+   rental
