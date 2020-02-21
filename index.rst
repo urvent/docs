@@ -9,10 +9,13 @@ Auf den folgenden Seiten finden sich einige Informationen für die fachliche Nut
 
 
 .. toctree::
-    :maxdepth: 2
-        general/index
-        preparation/index
-        application/index
-        verify/index
-        live/index
-        faq/index
+   :caption: Themen
+   :name: topics
+   :maxdepth: 2
+
+   general/index
+   preparation/index
+   application/index
+   verify/index
+   live/index
+   faq/index

@@ -6,8 +6,10 @@ Prüfung der Anmeldungen
     Under construction
 
 .. toctree::
-    :maxdepth: 2
-        vpersonal
-        vcertificate
-        vrental
+   :caption: Module
+   :maxdepth: 2
+
+   personal
+   certificate
+   rental
 

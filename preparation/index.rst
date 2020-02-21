@@ -6,8 +6,10 @@ Vorbereitung einer Veranstaltung
     Under construction
 
 .. toctree::
-    :maxdepth: 2
-        personal
-        kitchen
-        rental
+   :caption: Module
+   :maxdepth: 2
 
+   certificate
+   personal
+   kitchen
+   rental
