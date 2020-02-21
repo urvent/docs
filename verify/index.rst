@@ -1,15 +1,19 @@
 Prüfung der Anmeldungen
 =======================
 
+Allgemein
+---------
+
 .. note::
 
     Under construction
 
-.. toctree::
-   :caption: Module
-   :maxdepth: 2
+Module
+------
 
-   personal
-   certificate
-   rental
+.. toctree::
+   :maxdepth: 1
+
+   Personal <personal>
+   Verleih <rental>
 
