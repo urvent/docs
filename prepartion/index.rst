@@ -7,7 +7,7 @@ Vorbereitung einer Veranstaltung
 
 .. toctree::
     :maxdepth: 2
-        Personal <personal>
-        Küchenplanung <kitchen>
-        Verleih <rental>
+        personal
+        kitchen
+        rental
 

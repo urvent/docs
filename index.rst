@@ -10,20 +10,9 @@ Auf den folgenden Seiten finden sich einige Informationen für die fachliche Nut
 
 .. toctree::
     :maxdepth: 2
-        Allgemeiner Aufbau <general/index>
-        Vorbereitung einer Veranstaltung <preparation/index>
-            Personal <preparation/personal>
-            Küchenplanung <preparation/kitchen>
-            Verleih <preparation/rental>
-        Anmeldung der Teilnehmer <application/index>
-            Personal <verify/personal>
-            Verleih <verify/rental>
-        Prüfung der Anmeldungen <verify/index>
-            Personal <verify/personal>
-            Nachweise <verify/certificate>
-            Verleih <verify/rental>
-        Durchführung <live/index>
-            Personal <live/personal>
-            Küchenplanung <live/kitchen>
-            Verleih <live/rental>
-        FAQ - Häufige Fragen und Probleme <faq/index>
+        general/index
+        preparation/index
+        application/index
+        verify/index
+        live/index
+        faq/index

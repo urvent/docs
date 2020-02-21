@@ -7,7 +7,7 @@ Prüfung der Anmeldungen
 
 .. toctree::
     :maxdepth: 2
-        Personal <vpersonal>
-        Nachweise <vcertificate>
-        Verleih <vrental>
+        vpersonal
+        vcertificate
+        vrental
 

@@ -7,6 +7,6 @@ Anmeldung der Teilnehmer
 
 .. toctree::
     :maxdepth: 2
-        Personal <personal>
-        Verleih <rental>
+        personal
+        rental
 
