@@ -1,7 +1,5 @@
-urvent - Your Event System
-==========================
-
-.. image:: images/logo.png
+Übersicht
+=========
 
 Das urvent Veranstaltungssystem ist ein modernes System um Personalplanungen für Großveranstaltungen besser zu koordnieren. Dieses umfasst zum einen die zeitliche Bedarfsplanung als auch die Einsatzplanung für unterschiedliche Orte.
 
