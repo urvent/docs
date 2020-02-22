@@ -64,10 +64,10 @@ Für eine Veranstaltung können mehrere Personengruppen (z.B. Ärzte, Helfer, La
     :Nachweise:
         Diese Nachweise (z.B. Gesundheitszeugnis) muss ein Teilnehmer zwingend hochgeladen haben, damit die Anmeldung zur Veranstaltung als gültig anerkannt werden kann.
 
-Kartenlayout anlegen
-~~~~~~~~~~~~~~~~~~~~
+(Optional) Kartenlayout anlegen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Für Teilnehmer können Chipkarten über einen Kartendrucker gedruckt werden. Unter **Veranstaltung > Kartenlayout** können Layouts für diesen erstellt werden.
+Für Teilnehmer können Chipkarten über einen Kartendrucker gedruckt werden. Diese werden für mehrere Prozesse an Scanner Terminal verwendet. Unter **Veranstaltung > Kartenlayout** können Layouts für diesen erstellt werden.
 
 :Übergeordnet:
     Wenn keine Angaben für Style oder Layout angeben wurden, wird die Werte des hier angebenen Layouts verwendet.

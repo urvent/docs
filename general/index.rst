@@ -9,9 +9,15 @@ Das Veranstaltungssystem ist in mehrere Bereiche unterteilt.
 Geschlossener Bereich
     Für den Besuch dieses Bereichs muss sich ein Teilnehmer vorher registriert haben. Nach einer erfolgreichen Anmeldung ist es möglich sich für eine Veranstaltung anzumelden.
 
-Verwaltung:
+Scanner Terminal
+    In diesem Bereich können Teilnehmer- / Verleih-Karten gegscannt werden um diese An- / Abzumelden.
+
+Verwaltung
     In diesem Bereich können Administratoren und Manager das System verwalten.
 
+.. note::
+
+    Für die Verwendung des Scanner Terminals wird sowohl ein Kartendrucker (bzw. Aufkleber-Drucker) als auch ein Barcode Scanner benötigt.
 
 Module
 ------
@@ -27,7 +33,7 @@ Das Personalmodul kann Belegschaften verwalten und erlaubt Wünsche von Teilnehm
 Küche
 ~~~~~
 
-Das Küchenmodul ist einer Erweiterung für das Personalmodul und erlaubt eine Planung für die Kantine um Teilnehmer während der Schicht zu versorgen.
+Das Küchenmodul ist einer Erweiterung für das Personalmodul und erlaubt eine Planung für die Kantine. Diese versorgt Teilnehmer während der Schicht mit Mahlzeiten.
 
 Verleih
 ~~~~~~~

@@ -37,8 +37,8 @@ Für eine erfolgreiche Anmeldung sind folgende Dinge erforderlich:
     - Es müssen ausreichend freie Plätze für die wünschbaren Schichten vorhanden sein.
     - Mindestens eine Schicht muss in der Zukunft liegen.
 
-Warum erhält der Teilnehmer keine Mahlzeit beim Kantinen Scan?
---------------------------------------------------------------
+Warum erhält der Teilnehmer keine Mahlzeit beim Küchen Scan?
+------------------------------------------------------------
 
 Hierfür kann es mehrere Gründe geben:
 
