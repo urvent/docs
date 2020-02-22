@@ -41,3 +41,5 @@ rules:
 
 # do not report as violation
 whitelist:
+    lines:
+        - '.. contents::'
