@@ -4,9 +4,7 @@ Durchführung einer Veranstaltung
 Allgemein
 ---------
 
-.. note::
-
-    Under construction
+Das folgende Kapitel beschreibt die Verwaltung des Systems während des Veranstaltungszeitraums.
 
 Module
 ------
