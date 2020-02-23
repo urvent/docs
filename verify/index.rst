@@ -4,9 +4,7 @@ Prüfung der Anmeldungen
 Allgemein
 ---------
 
-.. note::
-
-    Under construction
+Alle Wünsche durch einen Teilnehmer werden in der Verwaltung durch einen Manager geprüft.
 
 Module
 ------
