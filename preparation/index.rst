@@ -4,6 +4,8 @@ Vorbereitung einer Veranstaltung
 Allgemein
 ---------
 
+.. _general_topic:
+
 Veranstaltung anlegen
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -14,6 +16,9 @@ Veranstaltungen bieten die Grundlage für alle weiteren Komponenten. Damit eine 
 
 :Archiv:
     Blendet die Veranstaltung an diversen Stellen aus
+
+:Automatische Kartennummern:
+    Wenn ausgewählt, wird für jeden Teilnehmer eine automatische Identifikationsnummer generiert. Diese wird u.A. für die Scanner Terminals verwendet. Wenn vorkodierte Aufkleber / Karten mit QR Codes verwendet werden, sollte diese Option nicht ausgewählt werden.
 
 :Registrierung:
     :Anfang / Ende:
