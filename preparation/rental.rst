@@ -31,7 +31,7 @@ In diesem Bereich sollten nie Anpassungen vorgemommen werden. Führerscheinklass
 Schichten anlegen
 -----------------
 
-Schichten sind Zeitslots in dem ein Fahrzeug bzw. Inventar zur Verfügung steht.
+Schichten sind Zeitslots in dem ein Fahrzeug bzw. Inventar zur Verfügung steht. Schichten stehen für alle Inventartypen zur Verfügung. Es gibt keine typenspezifischen Schichten.
 
 .. _rental_shift:
 
