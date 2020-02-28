@@ -10,6 +10,8 @@ Für den Besuch der Katine muss ein Teilnehmer in der Regel eine aktuelle Schich
 
 Wird das Feld **All You Can Eat** selektiert, kann die Person auch außerhalb der Schichtzeiten die Kantine besuchen, so lange eine aktuelle Essenszeit gibt. Außerdem muss es für den Teilnehmer ein passendes Gericht geben.
 
+.. _kitchen_statistic:
+
 Statistiken
 -----------
 
