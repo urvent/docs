@@ -4,7 +4,6 @@ rules:
     blank_line_after_directive: ~
     short_array_syntax: ~
     no_app_console: ~
-    typo: ~
     replacement: ~
     composer_dev_option_not_at_the_end: ~
     yarn_dev_option_at_the_end: ~
