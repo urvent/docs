@@ -13,7 +13,7 @@ Sollen mehrere Fahrzeuge bzw. Gegenstände auf einmal bestätigt werden, kann di
 Kartennummern hinzufügen
 ------------------------
 
-Je nach Einstellung des Festivals (siehe  :ref:`Automatische Kartennummern <general_topic>`) lassen sich entweder automatisch neue Kartennummern generieren, wenn ein die Codes in den Kartenlayouts dargestellt werden oder manuell neue Kartennummer setzen. Dieses kann über das untere Menü der Übersicht erfolgen.
+Je nach Einstellung der Veranstaltung (siehe :ref:`Automatische Kartennummern <general_topic>`) lassen sich entweder automatisch neue Kartennummern generieren, wenn die Codes in den Kartenlayouts dargestellt werden oder manuell neue Kartennummer setzen. Dieses kann über das untere Menü der Übersicht (**Verleih > Inventar bzw. Fahrzeuge**) erfolgen.
 
 Manuelle Zuordnung
 ~~~~~~~~~~~~~~~~~~
