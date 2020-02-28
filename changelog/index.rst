@@ -8,7 +8,7 @@ Changelog
 2020-02
 -------
 
-Das Urvent System wurde komplett neu strukturiert. Dieses spielt sich zum einen in der Admin Menü und zum anderen der technischen Trennung der einzelnen Module wieder.
+Das urvent System wurde komplett neu strukturiert. Dieses spielt sich zum einen in dem Menü der Verwaltung und zum anderen in der stärkeren technischen Trennung der einzelnen Module wieder.
 
 Personal
 ~~~~~~~~

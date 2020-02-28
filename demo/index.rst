@@ -1,8 +1,7 @@
 Demosystem
 ==========
 
-Für das System gibt es ein öffentliches Testsystem um Funktionen ohne Risiko ausprobieren zu können. Dieses sollte nicht produktiv verwendet werden, da die Daten regelmäßig zurück gesetzt werden.
-
+Für das System gibt es eine öffentliche Testinstallation. Auf dieser können Funktionen ohne Risiko ausprobiert werden. Es sollten jedoch keine sensiblen oder wichtigen Daten hinterlegt werden, da das System für jeden öffentlich aufrufbar ist. Zusätzlich werden die Daten regelmäßig zurück gesetzt.
 
 :Frontend:
     https://demo.urvent.com/

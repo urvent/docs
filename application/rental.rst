@@ -1,7 +1,7 @@
 Anmeldung von Verleih
 =====================
 
-Die Anmeldung für den Verleih unterliegt weniger Regeln als die für die Teilnehmer. Es ist z.B. möglich einen Inventar- / Fahrzeugtyp mehrfach für eine Veranstaltung anzumelden. Auch gibt es keine Bestätigung für einzelne Schichten, sondern nur für ganze Inventargegenstände bzw. Fahrzeuge.
+Die Anmeldung für den Verleih unterliegt weniger Regeln als die für das Personal. Es ist z.B. möglich einen Inventar- / Fahrzeugtyp mehrfach für eine Veranstaltung anzumelden. Auch gibt es keine Bestätigung für einzelne Schichten, sondern nur für ganze Inventargegenstände bzw. Fahrzeuge.
 
 Neue Anmeldung
 --------------
@@ -16,7 +16,7 @@ Jeder Inventartyp benötigt für einen erfolgreiche Anmeldung eine Verfügbarkei
 Anmeldung bearbeiten
 --------------------
 
-Je nach Einstellung kann ein Anmeldung im Nachgang bearbeiten. Siehe  :ref:`Schicht Erstellung <rental_shift>`.
+Je nach Einstellung kann ein Anmeldung im Nachgang bearbeiten. Siehe :ref:`Schicht Erstellung <rental_shift>`.
 
 Anmeldung prüfen
 ----------------

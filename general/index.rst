@@ -1,34 +1,36 @@
 Aufbau des urvent Veranstaltungssystem
 ======================================
 
-Das Veranstaltungssystem ist in mehrere Bereiche unterteilt.
+Das System kann in mehreren Komponenten unterteilt werden.
+
+Zugriffsrechte
+--------------
 
 Öffentlicher Bereich
     Dieses ist die öffentliche Webseite mit allgemeinen Informationen wie z.B. News, Datenschutzinformationen etc.
 
 Geschlossener Bereich
-    Für den Besuch dieses Bereichs muss sich ein Teilnehmer vorher registriert haben. Nach einer erfolgreichen Anmeldung ist es möglich sich für eine Veranstaltung anzumelden.
-
-Scanner Terminal
-    In diesem Bereich können Teilnehmer- / Verleih-Karten gegscannt werden um diese An- / Abzumelden.
+    Für den Besuch dieses Bereichs muss sich ein Besucher vorher registriert haben. Nach einer erfolgreichen Anmeldung ist es möglich sich für Veranstaltungen anzumelden.
 
 Verwaltung
     In diesem Bereich können Administratoren und Manager das System verwalten.
 
-.. note::
+Scanner Terminal
+    In diesem Bereich können Teilnehmer- / Verleih-Karten gescannt werden um diese im System an- bzw. abzumelden. Das Terminal ist durch einen Schlüssel geschützt.
 
-    Für die Verwendung des Scanner Terminals wird sowohl ein Kartendrucker (bzw. Aufkleber-Drucker) als auch ein Barcode Scanner benötigt.
+    .. note::
+
+        Für die Verwendung des Scanner Terminals wird sowohl ein Kartendrucker (bzw. Aufkleber-Drucker) als auch ein Barcode Scanner benötigt.
 
 Module
 ------
 
-Neben der Trennung der einzelnen Bereiche nach Benutzergruppe gibt es noch eine weitere Trennung nach Modulen. Ein Modul entspricht hier einer Sammlung von Funktionen für einen speziellen Anwendungszweck. Je nach Konfiguration, stehen folgende Module zur Verfügung:
-
+Neben einer Unterscheidung der Zugriffsrechte gibt es eine funktionale Trennung nach Modulen. Ein Modul umfasst eine Sammlung von Funktionen für einen speziellen Anwendungszweck (z.B. Fahrzeugverleih). Je nach Konfiguration, stehen folgende Module zur Verfügung:
 
 Personal
 ~~~~~~~~
 
-Das Personalmodul kann Belegschaften verwalten und erlaubt Wünsche von Teilnehmern für eine Schicht.
+Das Personalmodul kann Belegschaften für einzelne Schichten zu verwalten. Teilnehmer können Wünsche für eine Veranstaltung äußern und Manager diese über eine grafische Oberfläche Prüfen und Koordinieren.
 
 Küche
 ~~~~~
@@ -38,4 +40,4 @@ Das Küchenmodul ist einer Erweiterung für das Personalmodul und erlaubt eine P
 Verleih
 ~~~~~~~
 
-Der Verleih erlaubt eine Verwaltung des Fuhrparks und von Inventar. Dieses kann ein Teilnehmer auf Wunsch auch anmelden.
+Der Verleih erlaubt eine Verwaltung des Fuhrparks und des Inventars. Bei Bedarf können Teilnehmer Verleihobjekte für eine Veranstaltung anmelden.

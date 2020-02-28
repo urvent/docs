@@ -4,15 +4,15 @@ Vorbereitungen für Küchenplanung
 (Optional) Anlegen von Merkmalen
 --------------------------------
 
-Für Gerichte kännen Merkmale hinterlegt werden, z.B. ob ein Gerich Vegan oder Laktosefrei ist. Neue Merkmale können über **Speisekarte > Merkmale** angelegt werden.
+Für Gerichte können Merkmale hinterlegt werden, z.B. ob ein Gericht Vegan oder Laktosefrei ist. Neue Merkmale können über **Speisekarte > Merkmale** angelegt werden.
 
 Anlegen von Gerichten
 ---------------------
 
-Damit ein Teilnehmer vor Ort die Kantine besuchen können, müssen Gerichte im System hinterlegt werden. Neue Gerichte können über **Speisekarte > Gericht** angelegt werden.
+Damit ein Teilnehmer vor Ort die Kantine besuchen kann, müssen Gerichte im System hinterlegt werden. Neue Gerichte können über **Speisekarte > Gericht** angelegt werden.
 
 :Merkmal:
-    Auszeichnung von Gerichten. Dieses ist notwendig, um ein passendes Gerich für einen Teilnehmer zu finden, sollte es mehrere Gerichte zu einer Essenszeit geben.
+    Auszeichnung von Gerichten. Dieses ist notwendig, um ein passendes Gericht für einen Teilnehmer zu finden.
 
 :Zutaten:
     Für die bessere Bedarfsplanung der Küche können hier einzelne Bestandteile eines Gericht angegeben werden.
@@ -41,12 +41,12 @@ Für die Anlage oder Nachbearbeitung kann dieses über **Gericht > Essenszeiten*
     Mögliche Gerichte zu dieser Essenszeit.
 
     :Priorität:
-        Bei Konflikten (mehreren möglichen) Gerichten wird die Priorität beachtet. Die kleinste Priorität wird bevorzugt. Dieses sollte nur in selten Fällen auftreten.
+        Bei Konflikten (z.b. mehreren möglichen Gerichten) wird die Priorität beachtet. Die kleinste Priorität wird bevorzugt. Dieses sollte nur in selten Fällen auftreten.
 
 Nachträgliches Hinzufügen von Gerichten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sollte bei der Anlage einer Essenszeit kein Gericht ausgewählt worden sein, kann dieses nachträglich noch verändert werden. Im unteren Menü der Übersicht können eine oder mehrere Gerichte hinzugefügt werden:
+Sollte bei der Anlage einer Essenszeit kein Gericht ausgewählt worden sein, kann dieses nachträglich über **Gericht > Essenszeiten** erfolgen. Im unteren Menü der Übersicht können eine oder mehrere Gerichte hinzugefügt werden:
 
 .. image:: ../images/meal_mealtime_batch.png
 
@@ -55,9 +55,8 @@ Feldbeschreibung siehe :ref:`Anlegen von Essenszeiten <kitchen_mealtime>`.
 :Vorhandene Gerichte ersetzen:
     Entfernt alle Gerichte die bisher zu den ausgewählten Essenszeiten vorhanden waren.
 
-
-Nachträgliches Hinzufügen von Essenzeiten
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nachträgliches Hinzufügen von Essenszeiten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Siehe :ref:`Schicht Nachbearbeitung <personal_shift_post_edit>`.
 

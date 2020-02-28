@@ -1,5 +1,5 @@
-Prüfung von Verleihbewerbungen
-==============================
+Prüfung von Verleih Bewerbungen
+===============================
 
 Prüfung von Bewerbungen
 -----------------------
@@ -18,7 +18,12 @@ Je nach Einstellung der Veranstaltung (siehe :ref:`Automatische Kartennummern <g
 Manuelle Zuordnung
 ~~~~~~~~~~~~~~~~~~
 
-Für die Zuordnung kann entweder ein Barcode Scanner verwendet werden, sofern dieser nach jedem Scan ein Return Signal sendet oder dieses manuell eingegeben werden.
+Durch Drücken von Return wird in das nächste Feld gewechselt.
+
+.. note::
+
+    Um die Nummern schneller zuzuordnen kann auch ein Barcode Scanner verwendet werden. Dieser muss nach jeden Scan allerdings ein Return Befehl mitsenden. werden.
+
 
 .. image:: ../images/rental_item_number.png
 

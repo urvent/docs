@@ -1,9 +1,9 @@
 Anmeldung von Personal
 ======================
 
-Möchte ein Teilnehmer eine neue Teilnahmewunsch für eine Veranstaltung stellen, so kann er dieses im geschlossenen Bereich tun. Anschließend kann er sich für eine Rolle anmelden.
+Möchte ein Benutzer einen neuen Teilnahmewunsch für eine Veranstaltung stellen, so kann er dieses im geschlossenen Bereich tun. Anschließend kann er sich für eine Rolle anmelden.
 
-Damit die Rollen für den Teilnehmer sichtbar sind, muss zum einen die Registrierung für das aktuelle Datum erlaubt sein und genügend freie Rollen zur Verfügung stehen. Siehe  :ref:`Schicht Erstellung <personal_shift>`.
+Damit einzelne Rollen für den Teilnehmer zur Auswahl stehen, muss zum einen die Registrierung für das aktuelle Datum erlaubt sein und genügend freie Rollen zur Verfügung stehen. Siehe  :ref:`Schicht Erstellung <personal_shift>`.
 
 Neue Anmeldung
 --------------
@@ -19,7 +19,7 @@ Bei den Schichten ist zu beachten, dass zwischen zwei Schichten mindestens 12 St
 
 Freiwillig können noch eine Bankverbindung für die Abrechnung und eine Organisation angeben werden. Je nach technischer Einstellungen können nur fest definierte Organisation genutzt werden oder diese frei eingegeben werden.
 
-Nach der Anlagen wird außerdem ein aktueller Snapshot von vorher definierten Profilfelder angelegt un mit der Anmeldung abgelegt. Dieser Snapshot bleitb bestehen, egal ob der Telnehmer nach der Anmeldung sein Profil ändert oder nicht.
+Nach der Anlagen wird außerdem ein aktueller Snapshot von vorher definierten Profilfelder angelegt und mit der Anmeldung abgelegt. Dieser Snapshot bleibt bestehen, egal ob der Teilnehmer nach der Anmeldung sein Profil ändert oder nicht.
 
 .. note::
 
@@ -33,7 +33,7 @@ Je nach Einstellung kann ein Teilnehmer seine Anmeldung im Nachgang bearbeiten. 
 Anmeldung prüfen
 ----------------
 
-Sobald eine Anmeldung durch einen Manager bestätigt wurde, kann ein Teilnehmer dieses in der Übersicht an der Farbe sehen. Grün hinterlegt sind bestätigten Schichten, orange offene und rot abgelehnte Wünsche.
+Sobald eine Anmeldung durch einen Manager bestätigt wurde, kann ein Teilnehmer dieses in der Übersicht an der Farbe sehen. Grün hinterlegt sind bestätigten Schichten, orange sind offene und rote sind abgelehnte Wünsche.
 
 .. image:: ../images/application_overview.png
 
