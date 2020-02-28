@@ -23,6 +23,13 @@ Auf den folgenden Seiten finden sich einige Informationen für die fachliche Nut
    :maxdepth: 1
 
    FAQ <faq/index>
-   demo/index
+   Demosystem <demo/index>
+
+.. toctree::
+   :caption: Technik
+   :name: technic
+   :maxdepth: 1
+
+   Changelog <changelog/index>
 
 

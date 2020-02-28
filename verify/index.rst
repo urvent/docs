@@ -13,5 +13,6 @@ Module
    :maxdepth: 1
 
    Personal <personal>
+   Küche <kitchen>
    Verleih <rental>
 
