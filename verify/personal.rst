@@ -3,6 +3,24 @@ Prüfung von Personal Bewerbungen
 
 Für die Prüfung von Personal-Bewerbungen gibt es mehrere Schritte. Zum einen können die Nachweise der Helfer überprüft werden und zum anderen können die Schichtwünsche für einen Teilnehmer angenommen werden.
 
+Ablehnung einer Bewerbung
+-------------------------
+
+Möchte ein Teilnehmer seine Anmeldung komplett zurück ziehen oder sind Duplikate im System vorhanden. Können Teilnehmer auch komplett entfernt (bzw. ausgeblendet) werden.  Dafür stehen unter **Veranstaltung > Teilnehmer** im unteren Menü mehrere Optionen zur Verfügung:
+
+.. image:: ../images/personal_workforce_batch.png
+
+:Genehmigung setzen/entfernen:
+    Änder den Status **Genehmigung durch die Organisation**
+
+:Ablehnen und Ausblenden:
+    Blendet einen Teilnehmer aus dem Schichtplan komplett aus und entfernt alle bisher bestätigten Schichten.
+
+:Wiederherstellen und Einblenden:
+    Stellt einen Teilnehmer wieder her. Die Schichten werden nicht wiederhergestellt und werden wieder als Wünsche angezeigt.
+
+.. _personal_planer:
+
 Prüfung von Bewerbungen
 -----------------------
 
@@ -18,6 +36,13 @@ Mit einen Klick auf **Bearbeiten** wird der Manager Modus aktiviert.
 Mit einen **linken Mausklick** auf eine grüne (genehmigte Schicht) wird diese orange (als Wunsch) gewechselt. Dieses geschieht in beide Richtungen.
 
 Mit einem **rechten Mausklick** auf eine Schicht kann die Schicht durch eine andere ersetzt werden. Wird dieses auf eine leere Zelle ausgeführt kann eine komplett neue Schicht zugeordnet werden.
+
+Alternative Bestätigung von Schichten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Neben der Freigabe über den Personalplaner können Schichten auch auf eine andere Art bestätigt werden. Dafür stehen unter **Personal > Schichtplan** im unteren Menü mehrere Optionen zur Verfügung.
+
+.. image:: ../images/personal_schedule_batch.png
 
 Prüfung von Nachweisen
 ----------------------
@@ -49,19 +74,8 @@ Durch Drücken von Return wird in das nächste Feld gewechselt.
 Statistiken
 -----------
 
-Für die Planung gibt es mehrere Statistiken:
-
 Nachweise
 ~~~~~~~~~
 
 Alle hochgeladenen Nachweise lassen sich unter **Personal > Teilnehmer Nachweise** als Liste überprüfen um fehlende oder abgelaufene Nachweise zu finden.
 
-Schicht Statistik
-~~~~~~~~~~~~~~~~~
-
-Unter **Personal > Statistik** lassen sich die Anzahl der Teilnehmer für eine Schicht und Datum herausfinden. An dieser Stelle wird auch das Ziel einer Schicht (siehe :ref:`Soll <personal_shift>`) berücksichtigt.
-
-Einsatzplanung
-~~~~~~~~~~~~~~
-
-Wie viele Teilnehmer einem Einsatzort zugeordnet ist lässt sich unter **Personal > Einsatzplanung** herausfinden. Damit eine Person einem Einsatzort zugeordnet werden kann, muss der Teilnehmer an diesen Tag eine Schicht absolvieren.
