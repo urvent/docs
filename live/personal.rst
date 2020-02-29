@@ -11,16 +11,11 @@ Noch nicht zugeordnete Teilnehmer stehen in einer Auswahlbox zur Verfügung. Ebe
 Personalkarten erstellen
 ------------------------
 
-.. note::
+Sind :ref:`Kartenlayouts <general_cardlayout>` für die Rollen oder Qualifikationen hinterlegt, können Personalkarten für die Teilnehmer über **Veranstaltung > Teilnehmer** gedruckt werden.
 
-    Under construction
+.. image:: ../images/personal_workforce_batch.png
 
-QR Codes erzeugen
-~~~~~~~~~~~~~~~~~
-
-.. note::
-
-    Under construction
+In den darauffolgenden Dialog muss das Layout gewählt werden. Dieses erlaubt einen unbeaufsichtigten Druck für mehrere Karten.
 
 Anmelde / Abmeldung Scan
 ------------------------
@@ -32,9 +27,9 @@ In der folgende Maske kann der Barcode der Teilnehmerkarte gescannt werden. Wurd
 Manuelles Setzen der An- / Abmeldezeit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. note::
+Meldet sich ein Teilnehmer nach der An- oder Abmeldezeit bei der Verwaltung oder ist das System während der Zeiten nicht erreichbar, kann dieses über **Personal > Schichtplan** nachträglich erfolgen.
 
-    Under construction
+.. image:: ../images/personal_schedule_batch.png
 
 Teilnehmer informieren
 ----------------------
@@ -43,11 +38,26 @@ Vor und während der Veranstaltung können Teilnehmer per E-Mail benachrichtigt 
 
 Massenmails können aus Spam-Gründen nicht versendet werden, es kann aber über **Veranstaltung > Teilnehmer** eine Liste aller E-Mail Adresse erzeugt werden.
 
-    .. image:: ../images/personal_workforce_notify.png
+.. image:: ../images/personal_workforce_notify.png
 
 Statistiken
 -----------
 
-.. note::
+Zur Überprüfung des reibungslosen Ablaufs, kann dieses an mehreren Stellen kontrolliert werden.
 
-    Under construction
+Aktuell Angemeldet
+~~~~~~~~~~~~~~~~~~
+
+Zeigt unter Berücksichtigung des aktuellen Datums und der aktuellen Schichten die Teilnehmer an, die gerade im System angemeldet sind einer Tätigkeit nachgehen.
+
+Schicht Statistik
+~~~~~~~~~~~~~~~~~
+
+Unter **Personal > Statistik** lassen sich die Anzahl der Teilnehmer für eine Schicht und Datum herausfinden. An dieser Stelle wird auch das Ziel einer Schicht (siehe :ref:`Soll <personal_shift>`) berücksichtigt.
+
+Einsatzplanung
+~~~~~~~~~~~~~~
+
+Wie viele Teilnehmer einem Einsatzort zugeordnet ist lässt sich unter **Personal > Einsatzplanung** herausfinden. Damit eine Person einem Einsatzort zugeordnet werden kann, muss der Teilnehmer an diesen Tag eine Schicht absolvieren.
+
+
