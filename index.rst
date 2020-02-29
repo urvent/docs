@@ -31,5 +31,6 @@ Auf den folgenden Seiten finden sich einige Informationen für die fachliche Nut
    :maxdepth: 1
 
    Changelog <changelog/index>
+   Installation <installation/index>
 
 
