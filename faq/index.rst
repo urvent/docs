@@ -5,6 +5,13 @@ FAQ - Häufige Fragen und Probleme
    :depth: 2
    :local:
 
+Was ist der Unterschied zwischen einer Qualifikation und einen Nachweis?
+------------------------------------------------------------------------
+
+Eine Qualifikation ist eine weitere Unterteilung einer Rolle. Ein Teilnehmer kann nur eine Qualifikation in einer Rolle besitzen.
+
+Nachweise sind Zeugnisse und Zertifikate, die ein Teilnehmer für die Ausübung einer Rolle nachweisen muss. Dieses können z.B. ein Gesundheitszeugnis oder eine Ausschankerlaubnis sein.
+
 Warum verschwinden hinterlegte Qualifikationen, Rollen, ...?
 ------------------------------------------------------------
 
