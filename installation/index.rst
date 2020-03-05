@@ -8,9 +8,13 @@ Installation
 Anforderungen
 -------------
 
-Für den Betrieb der Software wird eine aktuelle PHP Version (PHP 7.4, Stand 02/2020) benötigt, sowie eine MySQL bzw. Maria DB Datenbank. Außerdem wird mindestens 500 MB Speicherplatz für die Installation und hochgeladene Nachweis Dokumente benötigt.
+Die Software ist komplett in PHP geschrieben und benötigt für die Speicherung der Daten eine Datenbank. Folgende Dinge sind zwingend für einen einwandfreien Betrieb notwendig:
 
-Für einen einfacheren Zugriff und für die Installation von Updates wird ein SSH Zugang benötigt.
+- aktuelle PHP Version (PHP 7.4, Stand 02/2020)
+- aktuelle MySQL bzw. Maria DB Datenbank
+- 500 MB Speicherplatz, u.a. für hochgeladene Nachweis Dokumente
+- E-Mail Konto zum versenden von Systemmails (Passwort vergessen, Registrierung, ...)
+- SSH Zugriff für eine einfache Installation und Wartung des Systems
 
 Berechtigungen
 --------------
