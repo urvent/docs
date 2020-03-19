@@ -19,3 +19,4 @@ Die Software ist komplett in PHP geschrieben und benötigt für die Speicherung 
 - SMTP Mail Konto zum versenden von Systemmails (Passwort vergessen, Registrierung, ...)
 - SSH Zugriff für eine einfache Installation und Wartung des Systems
 
+Für die Nutzung der Verwaltung wird ein aktueller Browser (Chrome oder Firefox) empfohlen.
