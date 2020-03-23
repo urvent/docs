@@ -6,15 +6,12 @@ Allgemein
 
 Das folgende Kapitel beschreibt die Verwaltung des Systems während des Veranstaltungszeitraums.
 
-Karte drucken
-~~~~~~~~~~~~~
+Individuelle Karten drucken
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Über **Veranstaltung > Kartenlayout** können spezielle Karten gedruckt werden für die kein Personal oder Fahrzeug hinterlegt ist.
 
 .. image:: ../images/topic_cardlayout_options.png
-
-Eigene Karte drucken
-^^^^^^^^^^^^^^^^^^^^
 
 Unter Kartenvorschau stehen alle Platzhalter der aktuellen Karte zur Verfügung.
 

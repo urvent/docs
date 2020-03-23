@@ -33,6 +33,11 @@ An die Veranstaltung sind folgende Dinge (in)direkt gebunden:
     - Speisekarte > Protokoll
     - Speisekarte > Essenszeiten (nur an Hand des Themen Zeitraums)
 
+Warum ist der Druck der Karten falsch?
+--------------------------------------
+
+Beim Druck der Karten ist darauf zu achten, dass das Layout beim Drucker (Portrait oder Landscape) richtig gewählt ist und das der Druck von Hintergrundbildern und Farben aktiviert ist. Dieses ist unter anderem bei Firefox im Normalfall deaktiviert.
+
 Warum sehe ich keine Essenszeiten in der Verwaltung?
 ----------------------------------------------------
 

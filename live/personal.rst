@@ -8,7 +8,7 @@ Die Zuordnung eines Teilnehmers zu einem Einsatzort für einen Tag kann über **
 
 Noch nicht zugeordnete Teilnehmer stehen in einer Auswahlbox zur Verfügung. Ebenso können Teilnehmer über das **X** von einem Einsatzort abgezogen werden und anschließend einem neuen Ort zugewiesen werden.
 
-Personalkarten erstellen
+Druck von Personalkarten
 ------------------------
 
 Sind :ref:`Kartenlayouts <general_cardlayout>` für die Rollen oder Qualifikationen hinterlegt, können Personalkarten für die Teilnehmer über **Veranstaltung > Teilnehmer** gedruckt werden.
