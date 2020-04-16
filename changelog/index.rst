@@ -5,6 +5,15 @@ Changelog
    :depth: 2
    :local:
 
+2020-04
+-------
+
+- **Qualifikationen**: Zur besseren Unterscheidung zu Nachweisen werden Qualifikationen nun als "Funktionen" bezeichnet
+- **Verwaltung**: Weitere Hinweistexte zu den Feldern hinzugefügt
+
+Personal
+~~~~~~~~
+
 2020-02
 -------
 

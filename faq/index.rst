@@ -5,15 +5,15 @@ FAQ - Häufige Fragen und Probleme
    :depth: 2
    :local:
 
-Was ist der Unterschied zwischen einer Qualifikation und einen Nachweis?
-------------------------------------------------------------------------
+Was ist der Unterschied zwischen einer Funktion und einen Nachweis?
+-------------------------------------------------------------------
 
-Eine Qualifikation ist eine weitere Unterteilung einer Rolle. Ein Teilnehmer kann nur eine Qualifikation in einer Rolle besitzen.
+Eine Funktion (ehemals Qualifikation) ist eine weitere Unterteilung einer Rolle. Ein Teilnehmer kann nur eine Funktion in einer Rolle besitzen.
 
 Nachweise sind Zeugnisse und Zertifikate, die ein Teilnehmer für die Ausübung einer Rolle nachweisen muss. Dieses können z.B. ein Gesundheitszeugnis oder eine Ausschankerlaubnis sein.
 
-Warum verschwinden hinterlegte Qualifikationen, Rollen, ...?
-------------------------------------------------------------
+Warum verschwinden hinterlegte Funktionen, Rollen, ...?
+-------------------------------------------------------
 
 Einige hinterlegte Daten im System sind mit einer Veranstaltung verbunden um eine bessere Übersicht zwischen verschiedene Veranstaltungen zu erhalten. Wenn das Veranstaltung in der Verwaltung gewechselt wird, werden nur die für dieses Veranstaltung hinterlegten Werte angezeigt.
 

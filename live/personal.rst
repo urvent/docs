@@ -11,7 +11,7 @@ Noch nicht zugeordnete Teilnehmer stehen in einer Auswahlbox zur Verfügung. Ebe
 Druck von Personalkarten
 ------------------------
 
-Sind :ref:`Kartenlayouts <general_cardlayout>` für die Rollen oder Qualifikationen hinterlegt, können Personalkarten für die Teilnehmer über **Veranstaltung > Teilnehmer** gedruckt werden.
+Sind :ref:`Kartenlayouts <general_cardlayout>` für eine Rolle oder Funktion hinterlegt, können Personalkarten für die Teilnehmer über **Veranstaltung > Teilnehmer** gedruckt werden.
 
 .. image:: ../images/personal_workforce_batch.png
 

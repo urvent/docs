@@ -53,10 +53,10 @@ Für eine Veranstaltung können mehrere Personengruppen (z.B. Ärzte, Helfer, La
     :Schritt:
         Abstand zwischen den Nummern
 
-:Qualifikationen:
-    Mögliche Qualifikationen (siehe :ref:`Qualification anlegen <personal_qualification>`) für diese Rolle (z.B. Rettungssanitäter, Fahrer). Dient zur weiteren Unterteilung der Rolle.
+:Funktionen:
+    Mögliche Funktionen (siehe :ref:`Funktion anlegen <personal_qualification>`) für diese Rolle (z.B. Rettungssanitäter, Fahrer). Dient zur weiteren Unterteilung der Rolle.
 
-    .. note:: Ein Teilnehmer kann nur eine Qualifikation und Rolle haben.
+    .. note:: Ein Teilnehmer kann nur eine Funktion und Rolle haben.
 
 :Registrierung:
     :Anfang / Ende:

@@ -3,10 +3,10 @@ Vorbereitungen für Personal
 
 .. _personal_qualification:
 
-(Optional) Qualifikationen anlegen
-----------------------------------
+(Optional) Funktionen anlegen
+-----------------------------
 
-Qualifikationen sind eine Untergruppierung einer Rolle. Angelegt werde diese über **Personal > Qualifikation**.
+Funktionen sind eine Untergruppierung einer Rolle. Angelegt werde diese über **Personal > Funktionen**.
 
 :Kartenlayout:
     Layout das beim Drucken von Teilnehmerkarten verwendet wird. Überschreibt das Layout der Rolle
