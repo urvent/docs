@@ -8,11 +8,12 @@ Changelog
 2020-04
 -------
 
-- **Qualifikationen**: Zur besseren Unterscheidung zu Nachweisen werden Qualifikationen nun als "Funktionen" bezeichnet
-- **Verwaltung**: Weitere Hinweistexte zu den Feldern hinzugefügt
+Mit dem Release wurden einige kleinere Fehler in der Übersetzung behoben, sowie einige weitere Hinweistexte zu Formulare hinzugefügt.
 
 Personal
 ~~~~~~~~
+
+- **Qualifikationen**: Zur besseren Unterscheidung zu Nachweisen werden Qualifikationen nun als "Funktionen" bezeichnet
 
 2020-02
 -------
