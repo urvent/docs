@@ -5,6 +5,11 @@ Changelog
    :depth: 2
    :local:
 
+2020-11
+-------
+
+- **Avatar**: Benutzer können Avatare hochladen. Diese können bei Bedarf auf die Ausweise gedruckt werden.
+
 2020-04
 -------
 
